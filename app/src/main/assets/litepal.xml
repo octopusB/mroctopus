@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="mr_octopus"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.mroctopus.db.Person"/>
+        <mapping class="com.example.mroctopus.db.Share"/>
+        <mapping class="com.example.mroctopus.db.Comment"/>
+        <mapping class="com.example.mroctopus.db.Like"/>
+    </list>
+</litepal>
